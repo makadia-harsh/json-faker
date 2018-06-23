@@ -1,37 +1,36 @@
-[
-{
-"id": 1,
-"name": "Banana Chips 80g",
-"details": "80g Tasty Banana Chips fried in Coconut Oil",
-"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/banana80.jpg",
-"category": "Banana Chips"
-},
-{
-"id": 2,
-"name": "Banana Chips 160g",
-"details": "160g Tasty Banana Chips fried in Coconut Oil",
-"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/banana160.jpg",
-"category": "Banana Chips"
-},
-{
-"id": 3,
-"name": "Tapioca Chips 100g",
-"details": "100g Tapioca Chips fried in Coconut Oil",
-"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca100.jpg",
-"category": "Tapioca Chips"
-},
-{
-"id": 4,
-"name": "Tapioca Chips 250g",
-"details": "250g Tapioca Chips fried in Coconut Oil",
-"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca250.jpg",
-"category": "Tapioca Chips"
-},
-{
-"id": 5,
-"name": "Potato Chips 100g",
-"details": "100g Potato Chips fried in Sesame Oil",
-"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/potato100.jpg",
-"category": "Potato Chips"
-}
+[{
+		"id": 1,
+		"name": "Banana Chips 80g",
+		"details": "80g Tasty Banana Chips fried in Coconut Oil",
+		"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/banana80.jpg",
+		"category": "Banana Chips"
+	},
+	{
+		"id": 2,
+		"name": "Banana Chips 160g",
+		"details": "160g Tasty Banana Chips fried in Coconut Oil",
+		"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/banana160.jpg",
+		"category": "Banana Chips"
+	},
+	{
+		"id": 3,
+		"name": "Tapioca Chips 100g",
+		"details": "100g Tapioca Chips fried in Coconut Oil",
+		"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca100.jpg",
+		"category": "Tapioca Chips"
+	},
+	{
+		"id": 4,
+		"name": "Tapioca Chips 250g",
+		"details": "250g Tapioca Chips fried in Coconut Oil",
+		"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/tapioca250.jpg",
+		"category": "Tapioca Chips"
+	},
+	{
+		"id": 5,
+		"name": "Potato Chips 100g",
+		"details": "100g Potato Chips fried in Sesame Oil",
+		"imageURL": "https://storage.googleapis.com/dev-office-195018.appspot.com/potato100.jpg",
+		"category": "Potato Chips"
+	}
 ]
